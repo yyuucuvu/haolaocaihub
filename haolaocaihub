@@ -3,4 +3,4 @@ local player = game.Players.LocalPlayer
 -- Wait 10 seconds before kicking
 wait(10)
 
-player:Kick("You have been permanently banned for cheating.\n(Error Code: 267)")
+player:Kick("You have been permanently banned for cheating.\n(Mã Lỗi: 267)")
